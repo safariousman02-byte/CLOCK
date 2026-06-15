@@ -28,5 +28,5 @@
 
 ## RESULT OF THE APP
 
-![the web app](/asset/result.png)
+ ![the web app](/asset/result.png)
 
